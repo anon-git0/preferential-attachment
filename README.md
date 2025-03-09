@@ -12,6 +12,12 @@ An interesting example is the case of a three-type 'rock-paper-scissors' model. 
 
 See below for an example of this result from the program.
 
+![3_types](https://github.com/user-attachments/assets/521d8cc9-e72e-49c9-a542-d30ef8478276)
+
+Here, we exhibit another example with five competing types, using the rock-paper-scissors-lizard-Spock rules of Sam Kass.
+
+![5_types](https://github.com/user-attachments/assets/e5cf6245-391b-4db6-a251-57c0136acf4f)
+
 ## Algorithm
 In this section (more mathematically intensive), we explain how the .py program operates.
 
